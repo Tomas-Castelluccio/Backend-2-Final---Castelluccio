@@ -1,0 +1,52 @@
+[
+  {
+    "id": "664f3c8a8d1d1a0f9c7a5b1b",
+    "title": "Teclado Logitech K270 Graphite Wireless",
+    "code": "LOG-K270-GRAPHITE",
+    "price": 31000,
+    "status": true,
+    "stock": 3500,
+    "category": "Teclados",
+    "thumbnails": ["99577-producto-1.jpg"]
+  },
+  {
+    "id": "664f3c8a8d1d1a0f9c7a5b1c",
+    "title": "Mouse Gamer Trust Gxt 930 Jacx Full Rgb 6 Botones 6400 Dpi",
+    "code": "TRUST-GXT930",
+    "price": 22000,
+    "status": true,
+    "stock": 4000,
+    "category": "Mouses",
+    "thumbnails": ["D_NQ_NP_840528-MLA102379695056_122025-O.webp"]
+  },
+  {
+    "id": "664f3c8a8d1d1a0f9c7a5b1d",
+    "title": "Monitor Gamer 24 Samsung Curvo Full Hd 100Hz",
+    "code": "SAM-LS24D366GALX",
+    "price": 194000,
+    "status": true,
+    "stock": 2100,
+    "category": "Monitores",
+    "thumbnails": ["Monitor-Gamer-24-Samsung-Curvo-Full-Hd-100Hz-LS24D366GALX_48567_2.jpeg"]
+  },
+  {
+    "id": "664f3c8a8d1d1a0f9c7a5b1e",
+    "title": "Gabinete Mid Tower Msi Forge M100A Rgb",
+    "code": "MSI-FORGE-M100A",
+    "price": 75999,
+    "status": true,
+    "stock": 3200,
+    "category": "Gabinetes",
+    "thumbnails": ["Gabinete-Mid-Tower-Msi-Forge-M100A-Rgb_47199_1.jpeg"]
+  },
+  {
+    "id": "664f3c8a8d1d1a0f9c7a5b1f",
+    "title": "Motherboard Gigabyte H470M H LGA1200 DDR4",
+    "code": "GIG-H470M-H",
+    "price": 150000,
+    "status": true,
+    "stock": 3800,
+    "category": "Motherboards",
+    "thumbnails": ["1019-producto-motherboard-gigabyte-h470m-h-lga1200-1-9364.jpg"]
+  }
+]
